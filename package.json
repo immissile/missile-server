@@ -1,6 +1,6 @@
 {
   "name": "missile-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "small node static server",
   "main": "index.js",
   "scripts": {
