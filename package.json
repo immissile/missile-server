@@ -23,6 +23,7 @@
   "homepage": "https://github.com/immissile/missile-server#readme",
   "dependencies": {
     "cli-color": "^1.0.0",
+    "html-requirer": "0.0.7",
     "lodash-node": "^3.9.3"
   }
 }

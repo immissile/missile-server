@@ -2,6 +2,6 @@
 var Server = require('./lib/server');
 
 Server({
-    staticRoot: './assets',
-    port: 4000
+    staticRoot: __dirname + '/assets',
+    port: 4001
 });
